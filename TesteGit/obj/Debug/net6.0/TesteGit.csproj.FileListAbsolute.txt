@@ -1,0 +1,15 @@
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.deps.json
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.runtimeconfig.json
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\bin\Debug\net6.0\TesteGit.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.AssemblyInfoInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.AssemblyInfo.cs
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\refint\TesteGit.dll
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\TesteGit.genruntimeconfig.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\TesteGit\TesteGit\obj\Debug\net6.0\ref\TesteGit.dll

@@ -12,5 +12,5 @@
 
 }catch(Exception ex)//10 / 0 = está mensagem
 {
-    Console.WriteLine("\nAlgo de errado não está certo!");
+     Console.WriteLine($"\nAlgo de errado não está certo! {ex.Message}");
 }

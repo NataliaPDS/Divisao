@@ -27,5 +27,10 @@
         {
             Console.WriteLine($"Ocorreu um erro {ex.Message}");
         }
+        finally
+        {
+            Console.WriteLine("Obrigado");
+                
+        }
     }
 }
